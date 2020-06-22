@@ -1,0 +1,24 @@
+/*
+Theme Name: MONOLITH Child
+Theme URI:
+Description:WordPressテーマ「MONOLITH」
+Author:Design Plus
+Author URI:http://design-plus1.com/tcd-w/
+Version:1.7.1
+Template: monolith_tcd042
+Text Domain: tcd-w
+*/
+
+#h_top_menu { float: right; }
+
+#h_top_menu ul li { float: left; margin: 0 3px; }
+
+#h_top_menu ul li a { padding: 10px; background: #fff; display: block; color: #0D47A1; }
+
+#h_top_menu ul li a:hover { background-color: #387BE0; color: #fff; }
+
+.pc #global_menu > ul { height: 90px !important; }
+
+.pc #global_menu > ul > li > a { font-size:16px !important; height:100px !important; font-weight: normal !important; }
+
+.pc #global_menu > ul > li > a:hover { color: #D8E2F6 !important;}
