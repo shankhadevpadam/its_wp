@@ -35,11 +35,11 @@ $background_opacity = $options['background_opacity'] ? $options['background_opac
  <div id="header" style="background-color: rgba(<?php echo esc_attr( implode( ', ', $pickedcolor5 ) ); ?>, <?php echo esc_attr( $background_opacity ); ?>);">
   <div id="header_inner" class="clearfix<?php if($options['use_translate']){ echo ' header_with_translate';}; ?>">
     <div id="h_top_menu">
-        <ul>
-            <li><a href="https://order.purus.jp/" target="_blank">商品注文システム</a></li>
-            <li><a href="https://www.purus.jp/error-2/">エラー対処方法はこちら</a></li>
-            <li><a href="https://www.purus.jp/contact/">お問い合わせ</a></li>
-        </ul>
+        <?php
+            wp_nav_menu( array(
+                'menu' => 'Top Menu'
+            ) );
+        ?>
     </div>
 
     <div class="clearfix"></div>

@@ -22,3 +22,223 @@ Text Domain: tcd-w
 .pc #global_menu > ul > li > a { font-size:16px !important; height:100px !important; font-weight: normal !important; }
 
 .pc #global_menu > ul > li > a:hover { color: #D8E2F6 !important;}
+
+.top_purus_copy { font-size: 22pt; color: #0D47A1; }
+
+#index_news #index_event_list, #index_news #index_info_list { float: none; width: 100%; }
+
+.top_purus_movie {
+    width: 100%;
+    max-width: 800px;
+    height: 447px;
+    margin: 0 auto !important;
+    text-align: center !important;
+}
+.bt_blue {
+    background: #2559aa !important;
+    color: #fff !important;
+}
+
+.bt_blue:hover, .bt_blue:focus {
+    background-color: #1565C0 !important;
+    color: #fff !important;
+}
+.rich_font {
+    font-family: Arial, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+    font-weight: normal;
+}
+.post_content .style5a {
+	margin: 0 0 1em !important;
+}
+#page_title_block {
+    margin: 0 auto;
+    text-align: center;
+}
+#post_title {
+    margin: 0 auto 30px auto !important;
+    font-size: 45px !important;
+    display: inline-block;
+    position: relative;
+    padding: 0 .4em .1em;
+    background: linear-gradient(transparent 70%, #8DB7F5 0%);
+    color: #0d47a1;
+    text-align: center;
+}
+.link {
+	width: 300px;
+    height: 50px;
+    display: block;
+    font-size: 180%;
+    text-align: center;
+    line-height: 200%;
+}
+.link a {
+    width: 100%;
+    height: 50px;
+    display: block;
+    color: #FFF !important;
+    text-decoration: none !important;
+}
+.link_01 {
+    background: #4CAF50;
+}
+.link_01 a:hover {
+    background: #7EC782;
+    color: #FFF;
+}
+.link_02 {
+	background: #F06292;
+}
+.link_02 a:hover {
+	background: #F59CBB;
+	color: #FFF;
+}
+.link_03 {
+	background: #FF9800; 
+}
+.link_03 a:hover {
+	background: #FFB951;
+	color: #FFF;
+}
+.link_04 {
+	background: #26C6DA;
+}
+.link_04 a:hover {
+	background: #74DBE7;
+	color: #FFF;
+}
+.project_btn {
+    width: 300px;
+    padding: 6px 0;
+    text-align: center;
+    border: #666 1px solid;
+}
+.project_btn a {
+    text-decoration: none !important;
+    color: #333 !important;
+}
+.project_btn a:hover {
+    color: #999 !important;
+}
+#side_col .side_widget .menu li .sub-menu {
+	margin-left: 20px !important;
+}
+.pc #global_menu ul ul {
+	width: 250px !important;
+	top: 95px !important;
+}
+.pc #global_menu ul ul ul {
+	top: 0 !important;
+}
+.pc #global_menu ul ul a, .pc #global_menu ul ul a:hover {
+	font-size: 15px !important;
+}
+.post_content .style4a {
+	border-left: 2px solid #2559aa !important;
+    color: #2559aa !important;
+}
+.paper_lineup dd {
+    text-align: center;
+    font-size: 120%;
+    line-height: 140%;
+}
+.title_bohan {
+    width: 100%;
+    height: 60px;
+    background-color: #388E3C;
+    color: #FFF;
+    text-align: center;
+    font-size: 200%;
+}
+.bohan_point_block {
+    width: 100%;
+    height: auto;
+    background-color: #E8F5E9;
+}
+.bohan_point {
+    color: #388E3C;
+    font-size: 130%;
+    padding: 20px;
+    line-height: 130% !important;
+}
+.title_sgc2 {
+    width: 100%;
+    height: 34px;
+    background-color: #388E3C;
+    color: #FFF;
+    font-size: 180%;
+    line-height: 110%;
+    padding: 6px 0 0 10px;
+}
+.sgc2_point {
+    margin: 24px 6px 24px 6px;
+    font-size: 130%;
+    line-height: 150%;
+}
+.sgc2_point ul {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.sgc2_point ul li {
+    list-style: none;
+    font-size: 100%;
+    line-height: 140%;
+    text-indent: -1.5em;
+    margin: 10px 0 0 24px;
+}
+.sgc2_jirei dd {
+    text-align: center;
+    font-size: 120%;
+    line-height: 120%;
+}
+.iryo_howto dd {
+    text-align: center;
+    font-size: 120%;
+    line-height: 160%;
+}
+.donyu_jirei dd {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 120%;
+    line-height: 140%;
+}
+.catalog_block {
+    padding-top: 20px;
+}
+.catalog_block dd {
+    text-align: center;
+    font-size: 120%;
+    line-height: 120%;
+}
+.manual_block dd {
+    font-size: 120%;
+    line-height: 120%;
+}
+.rinen_1 {
+    background-color: #e6edf3;
+    width: 96%;
+    margin: 0 auto;
+    height: 50px;
+    padding-top: 30px;
+    text-align: center;
+    line-height: 120%;
+    font-size: 120%;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+}
+.rinen_2 {
+    background-color: #e6edf3;
+    width: 96%;
+    margin: 0 auto;
+    height: 60px;
+    padding-top: 20px;
+    text-align: center;
+    line-height: 120%;
+    font-size: 120%;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+}
